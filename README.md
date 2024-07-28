@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fadzai-Roselyn
-- 👀 I’m interested in leveraging data analysis and business analysis to drive impactful decisions and innovations
+- 👀 I’m interested in leveraging business analysis and data analysis to drive impactful decisions and innovations
 - 🌱 I’m currently learning advanced data analytics, machine learning, and business intelligence tools
 - 💞️ I’m looking to collaborate on projects that combine data technology with real-world business challenges, especially those that can benefit from my unique background in animal science and biological science
 - 📫 How to reach me www.linkedin.com/in/fadzai-roselyn-magadzire
